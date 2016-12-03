@@ -1,0 +1,37 @@
+Mono path[0] = 'C:/Users/martinp/Documents/code/Object Pools/ObjectPools_Data/Managed'
+Mono path[1] = 'C:/Users/martinp/Documents/code/Object Pools/ObjectPools_Data/Mono'
+Mono config path = 'C:/Users/martinp/Documents/code/Object Pools/ObjectPools_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/martinp/Documents/code/Object Pools/ObjectPools_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55348
+Multi-casting "[IP] 192.168.1.71 [Port] 55348 [Flags] 3 [Guid] 1559454687 [EditorId] 513409695 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-ELOBTCR) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.1.71:55348]...
+PlayerConnection accepted from [127.0.0.1] handle:0x2f4
+PlayerConnection already initialized - listening to [192.168.1.71:55348]
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     4205 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\martinp\Documents\code\Object Pools\ObjectPools_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 32Hz; virtual: 5120x2880 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.769739 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7cc -> priority: 1 
+Waiting for finish
